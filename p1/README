@@ -1,0 +1,28 @@
+Name: Chao Huang
+Clemson Email Address: chaoh@g.clemson.edu
+Cpsc: 8700. Software engineering
+
+
+Project No:	2
+Project Due date:	Sep. 10th, 2014
+
+Project description:
+this prject need us to implent a class and a main function. It aims to make us better understand how to deal with a class and how to use makefile to compile and link in Linux environment.
+
+I create a class name food. It has three members: Name which is the name of the class, color which is the color of the food and its price. I make price as the static one due to the fact they are sold in dollar shop. So their price are almost same.
+
+Project Specification:
+1. the class contains a data attribute this is static.
+2. the class has a static function that accesses the static function.
+3.the class contains a data which is a pointer but not static. At the same time, it has set and get static functions.
+4.the class is written in canonical form.
+5.the class use assignment to initialization.
+6. I use valgrind to test the file and there is no leek in the program.
+7.the class contains four overload operators which are "=,<<,+,-"
+8.also the class is a food class every member has its meaning.
+
+
+Project Problem:
+I am puzzled about how to convert  char* to string. Sometime I think they have the goals. But string class has more functions than the char*.
+
+Extra: none 
